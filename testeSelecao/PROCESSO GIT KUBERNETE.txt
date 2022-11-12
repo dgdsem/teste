@@ -1,0 +1,5 @@
+Ordem de procedimentos:
+1 - Clonar o repositório do GitHub
+2 - Compilar uma nova imagem de contêiner docker
+3 - Efetuar push da imagem de contêiner 
+4 - Atualizar a imagem usada pela implantação 
