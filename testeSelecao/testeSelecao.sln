@@ -5,7 +5,12 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testeSelecao", "testeSelecao\testeSelecao.csproj", "{58AEE751-62E3-45E4-A912-812F86D3DF87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unittest", "unittest\unittest.csproj", "{E3B518E7-4A14-41C5-AC27-86E5014CFBD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unittest", "unittest\unittest.csproj", "{E3B518E7-4A14-41C5-AC27-86E5014CFBD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4F27E215-A587-4501-8177-6AFF3E47EA52}"
+	ProjectSection(SolutionItems) = preProject
+		PROCESSO GIT KUBERNETE.txt = PROCESSO GIT KUBERNETE.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
